@@ -3,7 +3,7 @@ module gitee.com/zhaochuninhefei/fabric-gateway-go-gm
 go 1.17
 
 require (
-	gitee.com/zhaochuninhefei/fabric-protos-go-gm v0.0.2
+	gitee.com/zhaochuninhefei/fabric-protos-go-gm v0.0.3
 	gitee.com/zhaochuninhefei/gmgo v0.0.16
 	github.com/golang/protobuf v1.5.2
 	github.com/miekg/pkcs11 v1.1.1
@@ -24,7 +24,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace (
-	gitee.com/zhaochuninhefei/fabric-protos-go-gm => /home/zhaochun/work/sources/gcbaas/fabric-protos-go-gm
-	gitee.com/zhaochuninhefei/gmgo => /home/zhaochun/work/sources/gm-zc/gmgo
-)
+// replace (
+// 	gitee.com/zhaochuninhefei/fabric-protos-go-gm => /home/zhaochun/work/sources/gcbaas/fabric-protos-go-gm
+// 	gitee.com/zhaochuninhefei/gmgo => /home/zhaochun/work/sources/gm-zc/gmgo
+// )
