@@ -5,6 +5,9 @@ fabric-gateway-go-gm
 
 改造中。。。
 
+# 说明
+`fabric-gateway`是在fabric 2.4之后才能使用的客户端连接库，而目前本人的fabric国密改造是基于`2.2`版本做的，因此`fabric-gateway-go-gm`并不能使用。目前只是做一些准备工作。
+
 # 版权声明
 本项目采取木兰宽松许可证, 第2版，具体参见`LICENSE`文件。
 
